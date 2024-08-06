@@ -1,0 +1,89 @@
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.Form1.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciGiris.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.Properties.Resources.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe.config
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.pdb
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.exe
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.pdb
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenGiris.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDetay.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDetay.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenPanel.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmDevamsizlik.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmDuyuru.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciPanel.resources
+C:\Users\MSI-NB\Desktop\programlama\csharp\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDuyuru.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe.config
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.pdb
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDuyuru.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciPanel.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenPanel.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.Form1.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDetay.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciGiris.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDetay.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenGiris.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.Properties.Resources.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.exe
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.pdb
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenIstek.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenKaydol.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDevamsizlik.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDuyuru.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör\wallpaper\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciIstek.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe.config
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.pdb
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDevamsizlik.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDuyuru.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciIstek.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDuyuru.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciPanel.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenIstek.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenPanel.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDetay.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciGiris.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDetay.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenGiris.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenKaydol.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.Properties.Resources.resources
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.exe
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.pdb
+C:\Users\MSI-NB\Desktop\Yeni klasör (2)\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.GirisPaneli.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe.config
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.exe
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\bin\Debug\BM102_ProjeOdevi.pdb
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.AssemblyReference.cache
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDevamsizlik.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDuyuru.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciIstek.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDuyuru.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciPanel.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenIstek.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenPanel.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciDetay.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgrenciGiris.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenDetay.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenGiris.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.FrmOgretmenKaydol.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.GirisPaneli.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.Properties.Resources.resources
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.GenerateResource.cache
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.exe
+C:\Aktarma\Bilal\Kod\BM102Dersi_DonemSonuProjeOdevi\BM102_ProjeOdevi\BM102_ProjeOdevi\obj\Debug\BM102_ProjeOdevi.pdb
